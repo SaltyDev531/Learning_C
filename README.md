@@ -1,3 +1,3 @@
 ---
-##Follow me on my journey learning systems programming in C
+## Follow me on my journey learning systems programming in C
 ---
