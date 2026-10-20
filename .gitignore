@@ -1,4 +1,24 @@
+# Ignore everything by default
 *
-!/**/
-!*.*
-*.json
+
+# Allow Git to look inside directories
+!*/
+
+# Keep this ignore file
+!.gitignore
+
+# Keep C source and header files
+!*.c
+!*.h
+
+# Keep documentation
+!*.md
+!*.txt
+
+# Keep VS Code configuration
+!*.json
+
+# Keep build instructions, if you add them later
+!Makefile
+!makefile
+!CMakeLists.txt
