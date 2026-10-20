@@ -1,3 +1,45 @@
----
 ## Follow me on my journey learning systems programming in C
----
+
+### Beej's Guide to C Progress
+
+- [x] Chapter 1 - Foreword
+- [x] Chapter 2 - Hello, World!
+- [ ] Chapter 3 - Variables and Statements
+- [ ] Chapter 4 - Functions
+- [ ] Chapter 5 - Pointers—Cower In Fear!
+- [ ] Chapter 6 - Arrays
+- [ ] Chapter 7 - Strings
+- [ ] Chapter 8 - Structs
+- [ ] Chapter 9 - File Input/Output
+- [ ] Chapter 10 - `typedef`: Making New Types
+- [ ] Chapter 11 - Pointers II: Arithmetic
+- [ ] Chapter 12 - Manual Memory Allocation
+- [ ] Chapter 13 - Scope
+- [ ] Chapter 14 - Types II: Way More Types!
+- [ ] Chapter 15 - Types III: Conversions
+- [ ] Chapter 16 - Types IV: Qualifiers and Specifiers
+- [ ] Chapter 17 - Multifile Projects
+- [ ] Chapter 18 - The Outside Environment
+- [ ] Chapter 19 - The C Preprocessor
+- [ ] Chapter 20 - `struct`s II: More Fun with `struct`s
+- [ ] Chapter 21 - Characters and Strings II
+- [ ] Chapter 22 - Enumerated Types: `enum`
+- [ ] Chapter 23 - Pointers III: Pointers to Pointers and More
+- [ ] Chapter 24 - Bitwise Operations
+- [ ] Chapter 25 - Variadic Functions
+- [ ] Chapter 26 - Locale and Internationalization
+- [ ] Chapter 27 - Unicode, Wide Characters, and All That
+- [ ] Chapter 28 - Exiting a Program
+- [ ] Chapter 29 - Signal Handling
+- [ ] Chapter 30 - Variable-Length Arrays (VLAs)
+- [ ] Chapter 31 - `goto`
+- [ ] Chapter 32 - Types Part V: Compound Literals and Generic Selections
+- [ ] Chapter 33 - Arrays Part II
+- [ ] Chapter 34 - Long Jumps with `setjmp`, `longjmp`
+- [ ] Chapter 35 - Incomplete Types
+- [ ] Chapter 36 - Complex Numbers
+- [ ] Chapter 37 - Fixed Width Integer Types
+- [ ] Chapter 38 - Date and Time Functionality
+- [ ] Chapter 39 - Multithreading
+- [ ] Chapter 40 - Atomics
+- [ ] Chapter 41 - Function Specifiers, Alignment Specifiers/Operators
