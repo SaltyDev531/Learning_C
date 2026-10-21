@@ -1,5 +1,7 @@
 ## Follow me on my journey learning systems programming in C
 
+#### [Beej's Guide to C](https://beej.us/guide/bgc/html/split/index.html)
+
 ### Beej's Guide to C Progress
 
 - [x] Chapter 1 - Foreword
